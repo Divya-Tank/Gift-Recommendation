@@ -6,7 +6,8 @@ project my role as a Frontend Developer.
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/97346366/180040983-845e06a1-4919-4ec5-98df-6f70e4947fa5.png)
 ![Screenshot (37)](https://user-images.githubusercontent.com/97346366/180041004-62ac7680-9de3-4f3f-9f06-54fcb8ae6885.png)
-![Screenshot (34)](https://user-images.githubusercontent.com/97346366/180041018-3ad2
+![Screenshot (34)](https://user-images.githubusercontent.com/97346366/180042177-36662b0a-cb71-4057-9195-635ec019e730.png)
+
 
 ![Screenshot (35)](https://user-images.githubusercontent.com/97346366/180041246-17456a98-635d-415a-a859-8aca2affd118.png)
 ![Screenshot (39)](https://user-images.githubusercontent.com/97346366/180041355-9c034a88-53b6-4b1a-b54c-e9e6f408eee3.png)
